@@ -1,0 +1,7 @@
+megs:32
+
+floppya: 1_44=boot.img, status=inserted
+
+boot: floppy
+
+
